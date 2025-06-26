@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me
+Software Developer & QA Engineer 
+
+Python, Django, Flask, Selenium
+HTML5, CSS3, JavaScript (ES6+), TypeScript, SQL
+React, Next, TailwindCSS, NodeJS

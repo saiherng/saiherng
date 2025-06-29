@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[<img src="banner.png">](https://saiherng.tech/)
+
+
 #About me
 ---
 Software Developer & QA Engineer 

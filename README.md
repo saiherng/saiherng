@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [<img src="banner.png">](https://saiherng.tech/)
 
 
-#About me
+About me
 ---
 Software Developer & QA Engineer 
 

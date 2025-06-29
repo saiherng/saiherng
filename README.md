@@ -17,16 +17,8 @@ Here are some ideas to get you started:
 [<img src="banner.png">](https://saiherng.tech/)
 
 
-About me
----
-Software Developer & QA Engineer 
-
-Python, Django, Flask, Selenium
-HTML5, CSS3, JavaScript (ES6+), TypeScript, SQL
-React, Next, TailwindCSS, NodeJS
-
-<h1 align="center">Hi 👋, I'm Sai Herng</h1>
-<h3 align="center">A passionate full stack software developer with skills in Quality Assurance</h3>
+<h1 align="left">Hi 👋, I'm Sai Herng</h1>
+<h3 align="left">A passionate full stack software developer with skills in Quality Assurance</h3>
 
 - 🔭 I’m currently working on **finding new opportunities**
 
